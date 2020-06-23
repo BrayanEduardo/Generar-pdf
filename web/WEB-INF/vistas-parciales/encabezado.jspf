@@ -2,9 +2,12 @@
 <%@ page pageEncoding="UTF-8" %>
 
 <div>
-    <div class="bg-dark text-white">
+    <div class="encabezado">
          Sistema de Control de Inventario
-          <a href="Index" class="btn btn-info btn-sm "  role="button" >Inicio</a>
-          <a href="Categorias" class="btn btn-info btn-sm " role="button" >Categorias</a>
+         <center>
+          <a href="Index" class="btn btn-primary btn-sm"  role="button" >Inicio</a>
+          <a href="Categorias" class="btn btn-primary btn-sm" role="button" >Categorias</a>
+          </center>
     </div>
-    <div class="container shadow p-3 mb-5 bg-white rounded" >
+    <div class="contenido" >
+        </div>
