@@ -13,8 +13,12 @@
         <title>Inventario control</title>
         <%@include file="../WEB-INF/vistas-parciales/css-js.jspf" %>
     </head>
+    <center>
     <body>
         <%@include file="../WEB-INF/vistas-parciales/encabezado.jspf" %>
+        <br>
+        <br>
+        <br>
         <div style="width: 600px;" >
             <a href="#" class="btn btn-success btn-sm glyphicon glyphicon-pencil" role="button"  >Agregar Categoria +</a>
             <a  href="pdf"  class="btn btn-success btn-sm " role="button" ><span class="glyphicon glyphicon-print"> PDF</span> </a>
@@ -56,6 +60,10 @@
         </div>
 
         </div>
+                    <br>
+        <br>
+        <br>
       <%@include file="../WEB-INF/vistas-parciales/pie.jspf" %>               
     </body>
+    </center>
 </html>
