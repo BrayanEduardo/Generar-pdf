@@ -8,7 +8,9 @@
     </head>
     <body>
         <%@include file="WEB-INF/vistas-parciales/encabezado.jspf" %>
+    <center>
         <h1>Bienvenido a este Registro!</h1>
+        </center>
         <br>
         <br>
         <br>
