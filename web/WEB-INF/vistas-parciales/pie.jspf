@@ -1,7 +1,6 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
 </div>
-<div>
+<div class="pie">
     &COPY; Brayan Eduardo Flores Rodriguez SIS22B
-</div>
 </div>
