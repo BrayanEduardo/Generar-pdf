@@ -1,6 +1,7 @@
 <%@include file="Vistas-Categorias/ComprobarSession.jspf"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+
 <html>
     <head>
         <%@include file="WEB-INF/Vistas-Parciales/css-js.jspf"%>
@@ -23,7 +24,7 @@
                 <label for="fecha">Fecha de nacimiento</label></br>
                 <label for="fecha" class="btn-primary btn" title="Cambiar fecha">24/12/2001</label>
                 <input type="date" name="nombre" id="fecha" class="m-1"/> <br>
-                <label for="con">Contraseña</label><br>
+                <label for="con">Contraseña</label><br><br>
                 <input type="button" name="con" id="con" value="Cambiar contraseña" class="btn-danger btn m-1" title="Cambiar contraseña"/> <br>
                 <label>Rol</label><br>
                 <input type="text" name="rol" value="Analista" disabled class="text-center input"/><br><br>
